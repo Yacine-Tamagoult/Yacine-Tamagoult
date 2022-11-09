@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Yacine Tamagoult</h1>
+<h1 align="center">Salut 👋, Bienvenue sur mon GitHub</h1>
 <h3 align="center">Etudiant a 42 et technicien Data Center pour KDDI France</h3>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla86xnr800060fl6hji56dat/stats?cursusId=21&coalitionId=45" alt="yatamago's 42 stats" /></a>
